@@ -3,8 +3,6 @@ This repo contains my implementation of the Taxonomy Classification problem for 
 
 You will need to isntall the following modules to run this code successfully. The entire code is written in Python3
 
-NOTE : The training time would be more than 1-2 hour but mainly depends on your hardware limitations.
-
 
 (1) Pandas
 
