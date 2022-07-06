@@ -73,7 +73,7 @@ gunicorn==19.9.0
 gym==0.10.5
 h5py==2.7.0
 heapdict==1.0.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.8
 imageio==2.5.0
 imageio-ffmpeg==0.3.0
