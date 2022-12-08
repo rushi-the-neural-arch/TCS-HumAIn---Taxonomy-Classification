@@ -26,7 +26,7 @@ boto==2.49.0
 Bottleneck==1.2.1
 Box2D==2.3.2
 bs4==0.0.1
-certifi==2019.6.16
+certifi==2022.12.7
 cffi==1.12.1
 chardet==3.0.4
 chart-studio==1.0.0
